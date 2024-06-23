@@ -1,7 +1,7 @@
 /* App.css */
 
 body {
-  background-color: #bcd4ee;
+  background-color: #5a5a5b;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: center;
@@ -18,7 +18,7 @@ body {
 }
 
 form {
-  background-color: #97c2ef;
+  background-color: #e0e0e5;
   padding: 10px 50px 10px 50px ;
   border-radius: 10px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
